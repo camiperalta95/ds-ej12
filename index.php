@@ -1,13 +1,13 @@
 <?php
 
-require_once 'modelo/usuario.php';
+require_once 'modelousuario.php';
 
 $Usuario= New Usuario();
 
 $Usuario->Id= '45';
 $Usuario->NombreUsuario= 'Camilagp';
 $Usuario->Clave= '15656';
-$Usuario->Email= 'camila@gmail.com';
+$Usuario->Email= 'peraltacamila861@gamil.com';
 $Usuario->Nombre= 'Camila';
 $Usuario->Apellido= 'Peralta';
 $Usuario->FechaNacimiento= '30/10/1995';
